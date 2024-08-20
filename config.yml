@@ -1,0 +1,14 @@
+# Algorithms
+loudness_level: 0.5
+noise_factor: 0.009
+sample_rate: 48000
+shift_max: 0.2
+shift_direction: "both"
+speed_factor: 0.5
+
+# Turning algorithms running
+do_aug_loud: True
+do_aug_noise: True
+do_aug_shift: True
+do_aug_speed: True
+
